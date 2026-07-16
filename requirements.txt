@@ -1,0 +1,7 @@
+streamlit
+pyspellchecker
+textstat
+pypdf
+python-docx
+python-pptx
+language-tool-python
